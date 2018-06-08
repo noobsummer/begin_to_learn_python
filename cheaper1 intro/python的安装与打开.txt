@@ -1,0 +1,8 @@
+1.如何打开python
+    在powershell中键入python,再打回车，就可以打开python。
+
+2.pip的使用
+    注意，以下内容直接在power中输入，不是打开pip后再输入，也就是我们可以把python和pip当作是并列关系。
+    pip install XXX #在线搜索并安装XXX包，注意安装和卸载包时都要用管理员权限打开，不然会报错
+    pip uninstall xxx #卸载已经安装过的XXX包，如果没有安装过XXX包就卸载它的话，会报错
+    pip 
